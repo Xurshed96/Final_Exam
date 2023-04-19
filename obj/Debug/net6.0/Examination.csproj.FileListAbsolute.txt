@@ -1,0 +1,15 @@
+C:\Users\khush\Desktop\FinalExam\Examination\bin\Debug\net6.0\Examination.exe
+C:\Users\khush\Desktop\FinalExam\Examination\bin\Debug\net6.0\Examination.deps.json
+C:\Users\khush\Desktop\FinalExam\Examination\bin\Debug\net6.0\Examination.runtimeconfig.json
+C:\Users\khush\Desktop\FinalExam\Examination\bin\Debug\net6.0\Examination.dll
+C:\Users\khush\Desktop\FinalExam\Examination\bin\Debug\net6.0\Examination.pdb
+C:\Users\khush\Desktop\FinalExam\Examination\obj\Debug\net6.0\Examination.csproj.AssemblyReference.cache
+C:\Users\khush\Desktop\FinalExam\Examination\obj\Debug\net6.0\Examination.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khush\Desktop\FinalExam\Examination\obj\Debug\net6.0\Examination.AssemblyInfoInputs.cache
+C:\Users\khush\Desktop\FinalExam\Examination\obj\Debug\net6.0\Examination.AssemblyInfo.cs
+C:\Users\khush\Desktop\FinalExam\Examination\obj\Debug\net6.0\Examination.csproj.CoreCompileInputs.cache
+C:\Users\khush\Desktop\FinalExam\Examination\obj\Debug\net6.0\Examination.dll
+C:\Users\khush\Desktop\FinalExam\Examination\obj\Debug\net6.0\refint\Examination.dll
+C:\Users\khush\Desktop\FinalExam\Examination\obj\Debug\net6.0\Examination.pdb
+C:\Users\khush\Desktop\FinalExam\Examination\obj\Debug\net6.0\Examination.genruntimeconfig.cache
+C:\Users\khush\Desktop\FinalExam\Examination\obj\Debug\net6.0\ref\Examination.dll
