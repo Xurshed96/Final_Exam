@@ -8,7 +8,7 @@
 // [“Russia”, “Denmark”, “Kazan”] → 
 
 Console.Clear();
-string[] array1 = new string[5] {"12", "231", "hello", "world", "res"};
+string[] array1 = new string[5] {"12", "231", "hello", "world", "ATM"};
 string[] array2 = new string[array1.Length];
 void SecondArrayWithIF(string[] array1, string[] array2)
 {
